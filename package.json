@@ -22,7 +22,7 @@
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
-        "fmt": "eslint src --ext ts,tsx"
+        "fmt": "eslint src --ext ts,tsx --fix"
     },
     "eslintConfig": {
         "extends": "react-app"
